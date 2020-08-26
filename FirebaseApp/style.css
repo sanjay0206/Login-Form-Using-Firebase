@@ -19,8 +19,8 @@ input {
 }
 button {
     color: #fff;
-    background-color:rgb(32, 161, 178);
-    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important;
+    background-color: lightseagreen;
+    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25);
     border: none;
     padding: 15px 30px;
     border-radius: 5px;
